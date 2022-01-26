@@ -1,0 +1,13 @@
+.footer {
+    position: relative;
+    background-color: #403a60 !important;
+    color: #d0b787;
+    padding: 10px;
+    width: 100%;
+    height: 150px !important;
+}
+
+.MuiBottomNavigationAction-root.MuiBottomNavigationAction-iconOnly {
+    padding-top: 20px !important;
+    padding-bottom: 0px !important
+}
